@@ -1,5 +1,5 @@
 App Description
-This is a basic app where students can enter their information and whether they have pets or not.
+This is a basic app where students can enter their information and whether they have pets or not. In addition they can enter their school year and whether they want more pets.
 
 App Walk-though
 TODO:// Add the URL to your animated app walk-though gif in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
